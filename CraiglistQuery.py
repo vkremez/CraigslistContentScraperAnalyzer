@@ -1,5 +1,5 @@
 # coding: utf-8
-# iPyhon
+# iPython
 
 
 # In[1]:
